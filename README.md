@@ -22,8 +22,6 @@ https://sigstore.dev/what_is_sigstore/
 - Red Hat Trusted Software Supply Chain Video (Bill Bensing) https://www.youtube.com/watch?v=4_KFGkTKkX0
 - Cloud Engagement Hub IBM Cloud Satellite Tutorial Video https://www.youtube.com/watch?v=WoEzuM9S08M
 - Klustered (Part IV) https://www.youtube.com/watch?v=Cp6zvBIo5KM
-#### Talk
-- [Noel Colon] Infrastructure GitOps, MachineSets with Helm and ArgoCD
 
 ## 2021-03-09
 ##### News
@@ -44,9 +42,6 @@ https://github.com/ghurel-rh/servicemesh-2-rhsso-examples
 - OpenShift ServiceMesh 2.0 SSO Auth https://www.openshift.com/blog/restricting-user-access-via-service-mesh-2.0-and-red-hat-single-sign-on
 - Interview Red Hat Security Expert Kirsten on DevSec + SecOps https://www.youtube.com/watch?v=mxt--OLHDps&t=81s
 - Learn new tips about http https://httptoolkit.tech/blog/http-wtf/
-#### Talk
-- [Andy Anderson] Show Bank App deploy with Cloud Native Toolkit
-Code Risk Analyzer (CRA) Pipeline for Toolkit https://github.ibm.com/fscloud/pr-pipeline
 
 
 ## 2021-03-02
@@ -74,8 +69,6 @@ Code Risk Analyzer (CRA) Pipeline for Toolkit https://github.ibm.com/fscloud/pr-
 - Security: CNCF Certified Kubernetes Security https://www.cncf.io/certification/cks/
 - Break down and fix k8s https://itnext.io/breaking-down-and-fixing-kubernetes-4df2f22f87c3
 - An interactive Git learning game! https://github.com/git-learning-game/oh-my-git
-#### Talk
-- [Orhan Yarar] HadoWHAT? Validate and Lint your Dockerfile in a Pipeline using Hadolint
 
 ## 2021-02-23
 ##### News
@@ -101,8 +94,6 @@ https://www.ibm.com/cloud/blog/announcements/openshift-version-46-now-available-
 - WHY and the HOW of deploying Falco on Kubernetes. https://blog.webdev-jogeleit.de/blog/falco-security-and-monitoring-on-rke-bare-metal-cluster-with-rancher/
 - What are Multi-Container Pods https://learnk8s.io/sidecar-containers-patterns
 - Klustered, fixing broken clusters Part 1: https://www.youtube.com/watch?v=teB22ZuV_z8
-#### Talk
-- [Sean] Helm Overview and Helm Consolidation in Cloud Native Toolkit
 
 ## 2021-02-16
 ##### News
@@ -121,8 +112,6 @@ https://www.ibm.com/cloud/blog/announcements/openshift-version-46-now-available-
 - Cloud Native Toolkit new Starter Kit https://github.com/ibm-garage-cloud/template-quarkus
 #### Skills
 - kubernetes and red hat certifications path https://ibm.box.com/v/Kubernetes-RedHat-Certs
-#### Talk
-- [Carlos, Sean] Deep dive on ArgoCD-Config helm util https://github.com/ibm-garage-cloud/toolkit-charts/tree/main/stable/argocd-config
 
 ## 2021-01-26
 ##### News

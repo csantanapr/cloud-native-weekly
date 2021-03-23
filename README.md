@@ -170,7 +170,6 @@ https://cognitiveclass.ai/courses/building_cloud_native_and_multicloud_applicati
     - Cleanup for image registry module more modular
     - Continue the need to have cluster-admin to install toolkit (no root/uid)
 #### Improve Skills
-- [Larry Steck]: Quarkus
 - J2EE to Quarkus
     - https://twitter.com/nheidloff/status/1346857192612356097?s=20
     - https://github.com/nheidloff/application-modernization-javaee-quarkus

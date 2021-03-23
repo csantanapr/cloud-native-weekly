@@ -3,7 +3,7 @@ Interesting things in cloud native for the week
 
 
 ## 2021-03-16
-##### News
+#### News
 - Kubernetes 100,000 Issues/PRs https://twitter.com/K8sContributors/status/1369304454198071300
 - Sig-Store
 https://next.redhat.com/2021/03/09/introducing-sigstore-software-signing-for-the-masses/
@@ -24,7 +24,7 @@ https://sigstore.dev/what_is_sigstore/
 - Klustered (Part IV) https://www.youtube.com/watch?v=Cp6zvBIo5KM
 
 ## 2021-03-09
-##### News
+#### News
 - March 9-10 https://containerplumbing.org/schedule
 - KubeCon EU May 4-7 Schedule https://kccnceu2021.sched.com/
 - Okta acquires Auth0 for $6.5B https://techcrunch.com/2021/03/03/okta-acquires-cloud-identity-startup-auth0-for-6-5b/?guccounter=1
@@ -45,7 +45,7 @@ https://github.com/ghurel-rh/servicemesh-2-rhsso-examples
 
 
 ## 2021-03-02
-##### News
+#### News
 - OpenShift 4.7 GA (Feb 24th) 
     - Blog: https://www.openshift.com/blog/red-hat-openshift-4.7-is-now-available
     - Release Notes: https://docs.openshift.com/container-platform/4.7/release_notes/ocp-4-7-release-notes.html
@@ -71,7 +71,7 @@ https://github.com/ghurel-rh/servicemesh-2-rhsso-examples
 - An interactive Git learning game! https://github.com/git-learning-game/oh-my-git
 
 ## 2021-02-23
-##### News
+#### News
 - IBM Cloud ROKS 4.6 (k8s 1.19) GA, IKS 1.20 on Feb 17th 2021
 https://www.ibm.com/cloud/blog/announcements/openshift-version-46-now-available-in-red-hat-openshift-on-ibm-cloud
 - "The world’s second-most popular desktop operating system isn’t macOS anymore" https://arstechnica.com/gadgets/2021/02/the-worlds-second-most-popular-desktop-operating-system-isnt-macos-anymore/
@@ -96,7 +96,7 @@ https://www.ibm.com/cloud/blog/announcements/openshift-version-46-now-available-
 - Klustered, fixing broken clusters Part 1: https://www.youtube.com/watch?v=teB22ZuV_z8
 
 ## 2021-02-16
-##### News
+#### News
 - Carlo's birthday Yay
 - Community Slack channel name changing soon (vote poll) https://ibmcase.slack.com/archives/CHQ0UBFGR/p1613079957040200
 - New Cloud Native Toolkit Workshops https://cloudnativetoolkit.dev/workshop
@@ -114,7 +114,7 @@ https://www.ibm.com/cloud/blog/announcements/openshift-version-46-now-available-
 - kubernetes and red hat certifications path https://ibm.box.com/v/Kubernetes-RedHat-Certs
 
 ## 2021-01-26
-##### News
+#### News
 - Cloud Native Toolkit showcase in Course
 https://cognitiveclass.ai/courses/building_cloud_native_and_multicloud_applications
 - AWS/Elastic license drama
@@ -144,7 +144,7 @@ https://cognitiveclass.ai/courses/building_cloud_native_and_multicloud_applicati
 
 
 ## 2021-01-19
-##### News
+#### News
 - Sysdig Security and Usage Report 2021 https://sysdig.com/blog/sysdig-2021-container-security-usage-report/
 - Pod Security Policy (PSP) Going away more people going to look into OPA/Greenkeeper https://github.com/kubernetes/kubernetes/pull/97171
 - ETA GA for OCP 4.6 on ROKS moved from Jan. to Feb., You can use OCP 4.6 on DTE Infra VMware
@@ -164,7 +164,7 @@ https://cognitiveclass.ai/courses/building_cloud_native_and_multicloud_applicati
     - https://github.com/nheidloff/application-modernization-javaee-quarkus
 
 ## 2021-01-12
-##### News
+#### News
 - Red Hat acquires StackRox (Security) https://techcrunch.com/2021/01/07/redhat-is-acquiring-container-security-company-stackrox/
 - Podman 3.0 (Compose) https://www.redhat.com/sysadmin/podman-docker-compose
 #### Assets

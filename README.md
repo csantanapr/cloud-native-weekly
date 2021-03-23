@@ -3,7 +3,7 @@ Interesting things in cloud native for the week
 
 
 ## 2021-03-16
-##### Announcements/News
+##### News
 - Kubernetes 100,000 Issues/PRs https://twitter.com/K8sContributors/status/1369304454198071300
 - Sig-Store
 https://next.redhat.com/2021/03/09/introducing-sigstore-software-signing-for-the-masses/
@@ -18,15 +18,15 @@ https://sigstore.dev/what_is_sigstore/
     - https://crossplane.io/
     - https://developer.ibm.com/technologies/containers/blogs/ibm-joins-the-crossplane-community/
     - https://kubernetespodcast.com/episode/141-crossplane/
-#### Improve Skills
+#### Skills
 - Red Hat Trusted Software Supply Chain Video (Bill Bensing) https://www.youtube.com/watch?v=4_KFGkTKkX0
 - Cloud Engagement Hub IBM Cloud Satellite Tutorial Video https://www.youtube.com/watch?v=WoEzuM9S08M
 - Klustered (Part IV) https://www.youtube.com/watch?v=Cp6zvBIo5KM
-#### Speaker for today
+#### Talk
 - [Noel Colon] Infrastructure GitOps, MachineSets with Helm and ArgoCD
 
 ## 2021-03-09
-##### Announcements/News
+##### News
 - March 9-10 https://containerplumbing.org/schedule
 - KubeCon EU May 4-7 Schedule https://kccnceu2021.sched.com/
 - Okta acquires Auth0 for $6.5B https://techcrunch.com/2021/03/03/okta-acquires-cloud-identity-startup-auth0-for-6-5b/?guccounter=1
@@ -39,18 +39,18 @@ https://sigstore.dev/what_is_sigstore/
 https://github.com/ghurel-rh/servicemesh-2-rhsso-examples
 - How to Deploy Operators on Disconnected Environments (images, helm, yum) https://www.openshift.com/blog/how-to-deploy-operators-on-disconnected-environments
 - Cloud Pak checker (pre, post) install https://github.ibm.com/jerome-tarte/cp_checker
-#### Improve Skills
+#### Skills
 - 100DaysOfKubernetes https://devops.anaisurl.com/kubernetes
 - OpenShift ServiceMesh 2.0 SSO Auth https://www.openshift.com/blog/restricting-user-access-via-service-mesh-2.0-and-red-hat-single-sign-on
 - Interview Red Hat Security Expert Kirsten on DevSec + SecOps https://www.youtube.com/watch?v=mxt--OLHDps&t=81s
 - Learn new tips about http https://httptoolkit.tech/blog/http-wtf/
-#### Speaker for today
+#### Talk
 - [Andy Anderson] Show Bank App deploy with Cloud Native Toolkit
 Code Risk Analyzer (CRA) Pipeline for Toolkit https://github.ibm.com/fscloud/pr-pipeline
 
 
 ## 2021-03-02
-##### Announcements/News
+##### News
 - OpenShift 4.7 GA (Feb 24th) 
     - Blog: https://www.openshift.com/blog/red-hat-openshift-4.7-is-now-available
     - Release Notes: https://docs.openshift.com/container-platform/4.7/release_notes/ocp-4-7-release-notes.html
@@ -69,16 +69,16 @@ Code Risk Analyzer (CRA) Pipeline for Toolkit https://github.ibm.com/fscloud/pr-
 - RedHat OpenShift Learning Portal - https://learn.openshift.com/playgrounds/
 - Security automation content in SCAP, OSCAL, Bash, Ansible, and other formats
     - https://github.com/ComplianceAsCode/content
-#### Improve Skills
+#### Skills
 - J-U-S-T https://pawelurbanek.com/dangerous-word-slack
 - Security: CNCF Certified Kubernetes Security https://www.cncf.io/certification/cks/
 - Break down and fix k8s https://itnext.io/breaking-down-and-fixing-kubernetes-4df2f22f87c3
 - An interactive Git learning game! https://github.com/git-learning-game/oh-my-git
-#### Speaker for today
+#### Talk
 - [Orhan Yarar] HadoWHAT? Validate and Lint your Dockerfile in a Pipeline using Hadolint
 
 ## 2021-02-23
-##### Announcements/News
+##### News
 - IBM Cloud ROKS 4.6 (k8s 1.19) GA, IKS 1.20 on Feb 17th 2021
 https://www.ibm.com/cloud/blog/announcements/openshift-version-46-now-available-in-red-hat-openshift-on-ibm-cloud
 - "The world’s second-most popular desktop operating system isn’t macOS anymore" https://arstechnica.com/gadgets/2021/02/the-worlds-second-most-popular-desktop-operating-system-isnt-macos-anymore/
@@ -95,17 +95,17 @@ https://www.ibm.com/cloud/blog/announcements/openshift-version-46-now-available-
     - https://github.com/kyverno/kyverno/blob/main/samples/README.md
     - Kyverno on Rawkode https://www.youtube.com/watch?v=GlqCW7uJ-7Q
 - KonK Knative on Kind https://konk.dev
-#### Improve Skills
+#### Skills
 - Coffee and Cloud Native video podcast https://cncn.io/
 - Bash Execution Tips for Shell Jockeys and Script Fabricators https://dev.to/bowmanjd/bash-execution-tips-for-shell-jockeys-and-script-fabricators-5dan
 - WHY and the HOW of deploying Falco on Kubernetes. https://blog.webdev-jogeleit.de/blog/falco-security-and-monitoring-on-rke-bare-metal-cluster-with-rancher/
 - What are Multi-Container Pods https://learnk8s.io/sidecar-containers-patterns
 - Klustered, fixing broken clusters Part 1: https://www.youtube.com/watch?v=teB22ZuV_z8
-#### Speaker for today
+#### Talk
 - [Sean] Helm Overview and Helm Consolidation in Cloud Native Toolkit
 
 ## 2021-02-16
-##### Announcements/News
+##### News
 - Carlo's birthday Yay
 - Community Slack channel name changing soon (vote poll) https://ibmcase.slack.com/archives/CHQ0UBFGR/p1613079957040200
 - New Cloud Native Toolkit Workshops https://cloudnativetoolkit.dev/workshop
@@ -119,13 +119,13 @@ https://www.ibm.com/cloud/blog/announcements/openshift-version-46-now-available-
 - Snyk DevSecOps Github Integration https://github.com/marketplace/snyk
 - Cloud Native Toolkit shell setup updated (icc) https://cloudnativetoolkit.dev/getting-started/icc
 - Cloud Native Toolkit new Starter Kit https://github.com/ibm-garage-cloud/template-quarkus
-#### Improve Skills
+#### Skills
 - kubernetes and red hat certifications path https://ibm.box.com/v/Kubernetes-RedHat-Certs
-#### Speaker for today
+#### Talk
 - [Carlos, Sean] Deep dive on ArgoCD-Config helm util https://github.com/ibm-garage-cloud/toolkit-charts/tree/main/stable/argocd-config
 
 ## 2021-01-26
-##### Announcements/News
+##### News
 - Cloud Native Toolkit showcase in Course
 https://cognitiveclass.ai/courses/building_cloud_native_and_multicloud_applications
 - AWS/Elastic license drama
@@ -147,7 +147,7 @@ https://cognitiveclass.ai/courses/building_cloud_native_and_multicloud_applicati
     - https://buildpacks.io/features/#comparison
 - Use Object Storage as a persistent volume storage class on IKS/ROKS
     - https://cloud.ibm.com/docs/openshift?topic=openshift-object_storage
-#### Improve Skills
+#### Skills
 - Kubernetes Security eBook (StackRox)
     - https://security.stackrox.com/kubernetes-security-ebook-tips-tricks-best-practices.html
 - The Secured Developer Podcast
@@ -155,7 +155,7 @@ https://cognitiveclass.ai/courses/building_cloud_native_and_multicloud_applicati
 
 
 ## 2021-01-19
-##### Announcements/News
+##### News
 - Sysdig Security and Usage Report 2021 https://sysdig.com/blog/sysdig-2021-container-security-usage-report/
 - Pod Security Policy (PSP) Going away more people going to look into OPA/Greenkeeper https://github.com/kubernetes/kubernetes/pull/97171
 - ETA GA for OCP 4.6 on ROKS moved from Jan. to Feb., You can use OCP 4.6 on DTE Infra VMware
@@ -169,13 +169,13 @@ https://cognitiveclass.ai/courses/building_cloud_native_and_multicloud_applicati
 - Releases iteration zero https://github.com/ibm-garage-cloud/ibm-garage-iteration-zero/releases
     - Cleanup for image registry module more modular
     - Continue the need to have cluster-admin to install toolkit (no root/uid)
-#### Improve Skills
+#### Skills
 - J2EE to Quarkus
     - https://twitter.com/nheidloff/status/1346857192612356097?s=20
     - https://github.com/nheidloff/application-modernization-javaee-quarkus
 
 ## 2021-01-12
-##### Announcements/News
+##### News
 - Red Hat acquires StackRox (Security) https://techcrunch.com/2021/01/07/redhat-is-acquiring-container-security-company-stackrox/
 - Podman 3.0 (Compose) https://www.redhat.com/sysadmin/podman-docker-compose
 #### Assets

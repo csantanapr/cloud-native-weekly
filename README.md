@@ -2,6 +2,32 @@
 Interesting things in cloud native for the week
 
 
+## 2021-03-24
+#### News
+- Curl is 23 year old https://twitter.com/csantanapr/status/1373340744027668480?s=20
+- ArgoCD Release v2.0 Candidate: https://blog.argoproj.io/argo-cd-v2-0-rc1-is-here-f7d21ff1aa64 
+- Linux is 30 years old: https://linuxfoundation.org/linux30th/?hss_channel=tw-14706299
+- SoloCon (Istio/Gloo Service Mesh) Conference March 23-24 https://solocon.io/
+- The DevOps Conference March 23-24 https://www.thedevopsconference.com/
+#### Assets
+- Crossplane vs Terraform: https://blog.crossplane.io/crossplane-vs-terraform/
+- OWSAP Cheat Sheet Series Docker Security: https://cheatsheetseries.owasp.org/cheatsheets/Docker_Security_Cheat_Sheet.html
+- Who Needs OPA (Open Policy Agent): https://www.itprotoday.com/devops-and-software-development/who-needs-open-policy-agent
+- ArgoCD Multi-tentant/MultiCluster: https://blog.argoproj.io/hassle-free-multi-tenant-k8s-clusters-management-using-argo-cd-7dd35619046a
+- ArgoCD Image Updater:: https://blog.argoproj.io/closing-ci-cd-loop-using-argoproj-a78a50a98fe8
+- ArgoCD ApplicationSet CRD: https://github.com/argoproj-labs/applicationset#argo-cd-applicationset-crd
+- ArgoCD ApplicationSet Docs: https://argocd-applicationset.readthedocs.io/en/stable/
+- Action Item: Send David Bellagio asset to integrate ArgoCD with Service Now.
+- OpenShift GitOps Kam https://github.com/redhat-developer/kam/tree/master/docs/journey/day1
+#### Skills
+- Clubhouse Kubernetes Edge Project Conversation: https://github.com/salaboy/clubhouse-logs/blob/main/README.md#220321-bleeding-edge-kubernetes-projects-conversation
+- Every Monday "Kubernetes" Club 4PM EST
+- Vim cuc column cursor for yaml https://twitter.com/csantanapr/status/1373238475588317191?s=20
+- Illustrated Guide to Oauth and OpenID https://developer.okta.com/blog/2019/10/21/illustrated-guide-to-oauth-and-oidc
+- Digital Business Transformation: https://tefremen.medium.com/digital-business-transformation-put-people-first-for-success-539811bc799f
+- GitOps vs DevOps: What's the difference: https://opensource.com/article/21/3/gitops
+
+
 ## 2021-03-16
 #### News
 - Kubernetes 100,000 Issues/PRs https://twitter.com/K8sContributors/status/1369304454198071300

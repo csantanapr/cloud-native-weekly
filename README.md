@@ -2,7 +2,8 @@
 Interesting things in cloud native for the week
 
 
-## 2021-03-24
+
+## 2021-03-23
 #### News
 - Curl is 23 year old https://twitter.com/csantanapr/status/1373340744027668480?s=20
 - ArgoCD Release v2.0 Candidate: https://blog.argoproj.io/argo-cd-v2-0-rc1-is-here-f7d21ff1aa64 
@@ -98,6 +99,7 @@ https://github.com/ghurel-rh/servicemesh-2-rhsso-examples
 
 ## 2021-02-23
 #### News
+- News letter from Chris Short Red Hater https://devopsish.com/
 - IBM Cloud ROKS 4.6 (k8s 1.19) GA, IKS 1.20 on Feb 17th 2021
 https://www.ibm.com/cloud/blog/announcements/openshift-version-46-now-available-in-red-hat-openshift-on-ibm-cloud
 - "The world’s second-most popular desktop operating system isn’t macOS anymore" https://arstechnica.com/gadgets/2021/02/the-worlds-second-most-popular-desktop-operating-system-isnt-macos-anymore/
@@ -123,14 +125,11 @@ https://www.ibm.com/cloud/blog/announcements/openshift-version-46-now-available-
 
 ## 2021-02-16
 #### News
-- Carlo's birthday Yay
-- Community Slack channel name changing soon (vote poll) https://ibmcase.slack.com/archives/CHQ0UBFGR/p1613079957040200
 - New Cloud Native Toolkit Workshops https://cloudnativetoolkit.dev/workshop
 - VentureBeat Article IBM’s hybrid cloud strategy is gaining steam https://venturebeat.com/2021/02/15/ibms-hybrid-cloud-strategy-is-gaining-steam/
 - Feb 6th, 2021 FOSDEM online conference https://fosdem.org/2021/live/#devrooms 
 - Twitter thread on Observability Cardinality https://twitter.com/el_bhs/status/1360276734344450050
 - How to activate your no-cost Red Hat Enterprise Linux subscription https://developers.redhat.com/blog/2021/02/10/how-to-activate-your-no-cost-red-hat-enterprise-linux-subscription/
-- News letter from Chris Short Red Hater https://devopsish.com/
 #### Assets
 - prometheus cli https://github.com/nalbury/promql-cli
 - Snyk DevSecOps Github Integration https://github.com/marketplace/snyk
@@ -173,7 +172,6 @@ https://cognitiveclass.ai/courses/building_cloud_native_and_multicloud_applicati
 #### News
 - Sysdig Security and Usage Report 2021 https://sysdig.com/blog/sysdig-2021-container-security-usage-report/
 - Pod Security Policy (PSP) Going away more people going to look into OPA/Greenkeeper https://github.com/kubernetes/kubernetes/pull/97171
-- ETA GA for OCP 4.6 on ROKS moved from Jan. to Feb., You can use OCP 4.6 on DTE Infra VMware
 - Rancher working on new cluster-api for terraform with gitops with native CRDs https://twitter.com/ibuildthecloud/status/1351232560731484160
 #### Assets
 - Updates to Cloud Native Toolkit CLI
